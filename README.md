@@ -1,5 +1,5 @@
 
-# README for RAG Console-Based Application
+# Console-Based RAG Application (Groq LLM + ChromaDB)
 
 ## Overview
 This application implements a **Retrieval-Augmented Generation (RAG)** pipeline that extracts text from PDF and PowerPoint files, indexes the content using semantic search with **ChromaDB**, and integrates with a Large Language Model (LLM) for answering user queries based on the indexed data.
