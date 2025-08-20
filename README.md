@@ -114,3 +114,6 @@ python RAG_Application_Susmitha_Reddy_Bodam.py
 
 ---
 
+---
+© 2025 Susmitha Reddy Bodam  
+Author: [Susmitha Reddy Bodam](https://github.com/bodamsusmithareddy)
